@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-SharePoint-HorizontalApp
+ スキャフォールディングしたのと同等の横向きキャンバスアプリ
